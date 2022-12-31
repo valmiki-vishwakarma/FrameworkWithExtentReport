@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13695" started-at="2022-11-09T00:05:58 IST" finished-at="2022-11-09T00:06:11 IST">
+    <groups>
+    </groups>
+    <test name="Inventory Test" duration-ms="13695" started-at="2022-11-09T00:05:58 IST" finished-at="2022-11-09T00:06:11 IST">
+      <class name="tests.ProductTest.InventoryTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.ProductTest.InventoryTest@2e4b8173]" name="setUp" is-config="true" duration-ms="5785" started-at="2022-11-09T00:05:52 IST" finished-at="2022-11-09T00:05:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.ProductTest.InventoryTest@2e4b8173]" name="beforeClass" is-config="true" duration-ms="29" started-at="2022-11-09T00:05:58 IST" finished-at="2022-11-09T00:05:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:tests.ProductTest.InventoryTest@2e4b8173]" name="loginTest" duration-ms="275" started-at="2022-11-09T00:05:58 IST" finished-at="2022-11-09T00:05:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="productTest()[pri:1, instance:tests.ProductTest.InventoryTest@2e4b8173]" name="productTest" duration-ms="186" started-at="2022-11-09T00:05:58 IST" finished-at="2022-11-09T00:05:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productTest -->
+        <test-method status="PASS" signature="addProductToCartTest()[pri:2, instance:tests.ProductTest.InventoryTest@2e4b8173]" name="addProductToCartTest" duration-ms="179" started-at="2022-11-09T00:05:58 IST" finished-at="2022-11-09T00:05:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCartTest -->
+        <test-method status="PASS" signature="checkOutInfo()[pri:3, instance:tests.ProductTest.InventoryTest@2e4b8173]" name="checkOutInfo" duration-ms="6372" started-at="2022-11-09T00:05:59 IST" finished-at="2022-11-09T00:06:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOutInfo -->
+        <test-method status="PASS" signature="checkOutOverviewTest()[pri:4, instance:tests.ProductTest.InventoryTest@2e4b8173]" name="checkOutOverviewTest" duration-ms="6109" started-at="2022-11-09T00:06:05 IST" finished-at="2022-11-09T00:06:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOutOverviewTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.ProductTest.InventoryTest@2e4b8173]" name="tearDown" is-config="true" duration-ms="2315" started-at="2022-11-09T00:06:11 IST" finished-at="2022-11-09T00:06:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ProductTest.InventoryTest -->
+    </test> <!-- Inventory Test -->
+  </suite> <!-- Suite -->
+</testng-results>
